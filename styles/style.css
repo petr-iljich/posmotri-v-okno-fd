@@ -182,7 +182,6 @@ ol {
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
   content: '';
   display: block;
-  position: absolute;
   outline: 1px solid #fff;
   outline-offset: 1px;
   width: 15px;
